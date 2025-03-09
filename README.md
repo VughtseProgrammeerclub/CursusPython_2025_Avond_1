@@ -17,12 +17,9 @@ Deze cursus biedt een overzichtelijke introductie zonder technische overbelastin
 
 - Beginners die willen leren programmeren.
 - Iemand die de basis van Python wil opfrissen.
-- Iedereen die geïnteresseerd is in het ontwikkelen van software of data-analyse.
+- Iedereen die geïnteresseerd is in het ontwikkelen van software.
 
 ## Waarom Python?
 
 Python is een van de populairste programmeertalen van dit moment. Het is eenvoudig te leren, krachtig en wordt wereldwijd gebruikt in webontwikkeling, dataverwerking, kunstmatige intelligentie en meer.
 
----
-
-Begin je Python-avontuur vandaag nog en ontdek de eindeloze mogelijkheden die het biedt. Veel plezier met leren!
